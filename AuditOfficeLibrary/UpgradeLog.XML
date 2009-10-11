@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AuditOfficeLibrary">
+</Property><Property Name="Solution File" Value="D:\Depository\DotNET\siboams\AuditOfficeLibrary\AuditOfficeLibrary.sln">
+</Property><Property Name="Date" Value="2009年10月11日">
+</Property><Property Name="Time" Value="17:19:15">
+</Property></Properties><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="AuditOfficeLibrary.csproj" Description="Project file successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\AuditOfficeLibrary.csproj">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="AuditOfficeLibrary.csproj.user" Description="Project user file successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\AuditOfficeLibrary.csproj.user">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="AfterSaveEventArgs.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\AfterSaveEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="BeforeInsertIndexEventArgs.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\BeforeInsertIndexEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="BeforeSaveEventArgs.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\BeforeSaveEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="DocumentManager.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\DocumentManager.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="DocWrap.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\DocWrap.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertCrossRefEventArgs.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertCrossRefEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertResultForm.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertResultForm.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertResultForm.Designer.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertResultForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="Log.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\Log.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="ManagedExcel.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\ManagedExcel.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="ManagedWord.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\ManagedWord.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="Mark.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\Mark.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertOtherMarkForm.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertOtherMarkForm.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertOtherMarkForm.Designer.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertOtherMarkForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="DeleteMarkForm.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\DeleteMarkForm.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="DeleteMarkForm.Designer.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\DeleteMarkForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertMarkForm.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertMarkForm.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertMarkForm.Designer.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertMarkForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="ReplaceMark.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\ReplaceMark.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="WindowWrap.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\WindowWrap.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertAnoForm.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertAnoForm.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertAnoForm.Designer.cs" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertAnoForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertResultForm.resx" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertResultForm.resx">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertOtherMarkForm.resx" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertOtherMarkForm.resx">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="DeleteMarkForm.resx" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\DeleteMarkForm.resx">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertMarkForm.resx" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertMarkForm.resx">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="InsertAnoForm.resx" Description="File successfully backed up as D:\Depository\DotNET\siboams\AuditOfficeLibrary\Backup\InsertAnoForm.resx">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="AuditOfficeLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AuditOfficeLibrary" Source="AuditOfficeLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AuditOfficeLibrary" Source="AuditOfficeLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
